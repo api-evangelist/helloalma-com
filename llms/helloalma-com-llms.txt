@@ -1,0 +1,37 @@
+# helloalma.com llms.txt
+
+> Alma makes it easy to find high-quality, affordable mental health care.
+
+- [Alma](https://helloalma.com/): Alma makes it easy to find high-quality, affordable mental health care.
+
+- [FAQ](https://helloalma.com/faq/): Answers common questions for both clients (finding therapists, insurance, billing) and clinicians (membership structure, practice autonomy, credentialing).
+
+- [DEI and Social Impact](https://helloalma.com/dei-and-social-impact/): Details Alma's initiatives to support providers and clients from all backgrounds and advance equitable access to mental health care.
+
+- [Careers](https://helloalma.com/careers/): Lists open roles at Alma for those looking to join the company's mission to improve the mental health care system.
+
+- [Find a Therapist (Directory)](https://helloalma.com/therapy/): Browse Alma's nationwide network of licensed therapists by state, specialty, insurance, and availability, and start with a free 15-minute consultation.
+
+- [How It Works](https://helloalma.com/how-it-works/): Step-by-step guide explaining how clients can find affordable, insurance-accepted therapy and book free consultations across all 50 states.
+
+- [For Providers – Membership Benefits](https://helloalma.com/for-providers/): All-in-one practice management membership for therapists, including insurance support, EHR tools, CE courses, and a 25K+ provider community.
+
+- [Insurance Program for Therapists](https://helloalma.com/for-providers/insurance/): Helps clinicians accept insurance with ease, offering competitive reimbursement rates, credentialing support, and consistent payouts.
+
+- [Alma EHR Tools](https://helloalma.com/alma-ehr/): Integrated electronic health record platform for therapists covering scheduling, billing, clinical documentation, AI-assisted progress notes, and HIPAA-compliant telehealth.
+
+- [The Alma Difference](https://helloalma.com/the-alma-difference/): Overview of what sets Alma apart for clinicians, including digital tools, caseload growth support, CE credits, and a members-only professional community.
+
+- [Provider Resource Hub](https://helloalma.com/for-providers/resources/): Library of clinical resources, worksheets, and guides to help therapists deliver better care and grow their private practices.
+
+- [Our Mission](https://helloalma.com/our-mission/): Alma's mission page detailing its clinician-first approach to making high-quality, equitable, and affordable mental health care more accessible.
+
+- [Medicare for Therapy & Mental Health: What's Covered in 2026](https://helloalma.com/blog/does-medicare-cover-therapy/): Explains Medicare Part B outpatient mental health coverage, costs, and telehealth options for 2026.
+
+- [Providers at the ACA Conference Share Their Private Practice Goals](https://helloalma.com/blog/aca-conference-2026/): Counselors at the 2026 ACA Conference share their top financial and clinical goals for the year.
+
+- [What's New in PTSD Research 2026](https://helloalma.com/for-providers/resources/ptsd-research-news/): Reviews emerging PTSD treatments targeting the nervous system with technology and compressed evidence-based therapies.
+
+- [Town Hall Recap: How Alma is Helping Clinicians Navigate Change](https://helloalma.com/blog/navigating-change/): Recaps Alma's town hall on how shifting payer rules and AI are reshaping mental health care.
+
+- [10 Apps That Help You Reach Your New Year's Goals](https://helloalma.com/blog/10-research-backed-goal-setting-apps-for-2026/): Highlights ten research-backed apps to support mental health, habit-building, and goal achievement in 2026.

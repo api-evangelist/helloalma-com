@@ -1,0 +1,10 @@
+generated: '2026-10-22'
+method: none
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Provider docs at https://helloalma.com/docs render via JavaScript and no machine‑readable OpenAPI spec was found.
+  evidence:
+    - url: https://helloalma.com/docs/
+      status: 301
+  checked: '2026-10-22'

@@ -1,0 +1,65 @@
+generated: '2026-10-22'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 4
+  own: 4
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - identity
+  - support
+  - website
+hosts:
+- host: api.helloalma.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: helloalma.com
+  role: api
+  relation: own
+- host: helloalma.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Blog
+  - Website
+  serves:
+  - cdn
+  vendor: cloudfront
+  registrable_domain: helloalma.com
+  role: website
+  relation: own
+- host: secure.helloalma.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Login
+  serves: []
+  registrable_domain: helloalma.com
+  role: identity
+  relation: own
+- host: support.helloalma.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Support
+  serves: []
+  registrable_domain: helloalma.com
+  role: support
+  relation: own

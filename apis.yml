@@ -1,25 +1,78 @@
 aid: helloalma-com
+
 name: Alma
-description: 'Alma is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by insight-partners) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.sanity.io/images/0dljr336/production/8097aa28e5133d47c9e85b8c8c7e02ee42b36d1d-2189x1459.jpg
+
+description: 'Alma simplifies access to therapy by providing a platform that connects individuals with high-quality, affordable mental health care. It offers an easy-to-use service for finding therapists, scheduling appointments, and managing care, aiming to improve mental health outcomes through technology and streamlined processes.'
+
 url: https://raw.githubusercontent.com/api-evangelist/helloalma-com/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-22'
+
 modified: '2026-10-22'
+
 tags:
 - Company
-apis: []
+- MentalHealth
+- Therapy
+- Platform
+- Healthcare
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- insight-partners
+
 common:
+- type: LLMsTxt
+  url: llms/helloalma-com-llms.txt
+- type: Hosts
+  url: hosts/helloalma-com-hosts.yml
+- type: Vendors
+  url: vendors/helloalma-com-vendors.yml
+- type: Support
+  url: https://support.helloalma.com/hc/en-us
+- type: Login
+  url: https://secure.helloalma.com/login
+- type: Blog
+  url: https://helloalma.com/blog
+- type: DomainSecurity
+  url: security/helloalma-com-domain-security.yml
 - type: Website
   url: https://helloalma.com/
+
+apis: []
+
+x-backed-by:
+- insight-partners
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-22'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://support.helloalma.com/mcp
+    status: 401
+  - url: https://helloalma.com/
+    status: 200
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
